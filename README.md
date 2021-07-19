@@ -125,20 +125,25 @@ Last step I will create scatter plots with Plotly Express and hvplot, I’ll vis
 
 #### in 1st step we did Data processing to get clean Dataset to use for the PCA modle. 
 Data clean up, outcome 
+
 ![image1](https://user-images.githubusercontent.com/80013773/126110358-1d149ff8-cb82-4f0e-a9bc-566b6c02c1cb.PNG)
 
 Standarize the Data :
+
 ![image2](https://user-images.githubusercontent.com/80013773/126110404-ef67d94e-119d-440e-aabd-2ef8b6470935.PNG)
 
 
 #### Reducing Data Dimensions Using PCA
+
 ![image3](https://user-images.githubusercontent.com/80013773/126110439-258bbbd1-2473-4300-a562-29308cbb7e3c.PNG)
 
 ####  Clustering Crytocurrencies Using K-Means
 3.1) Finding the Best Value for k Using the Elbow Curve
+
 ![image4](https://user-images.githubusercontent.com/80013773/126110486-7e7739c5-48d0-4945-aad6-1b6f3dacc470.PNG)
 
 3.2) New DataFrame including predicted clusters and cryptocurrencies features outcome
+
 ![image5](https://user-images.githubusercontent.com/80013773/126110515-5870c7c4-e868-4427-9255-8faf2a25836b.PNG)
 
 
@@ -153,4 +158,5 @@ Tradable cryptocurrencies table
 ![image7](https://user-images.githubusercontent.com/80013773/126110625-e3667502-5dc4-44a7-a815-8c2cce067b2a.PNG)
 
 Visualizing total Coinsupply vs. Total Coin Mined. 
+
 ![image8](https://user-images.githubusercontent.com/80013773/126110662-cd170bd0-661c-4856-8cbd-64d104a2ebe2.PNG)
